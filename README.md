@@ -37,3 +37,4 @@
 - [Starship](https://starship.rs/guide/#%F0%9F%9A%80-installation)
   - Setup config (https://starship.rs/config/)
 - [fnm](https://github.com/Schniz/fnm)
+- [gh](https://cli.github.com/)
