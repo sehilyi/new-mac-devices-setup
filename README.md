@@ -8,6 +8,7 @@
 ### Mouse
 
 - "Swip between pages" as "Scroll Left or Right with One Finger"
+- Pointer size as the right next to "Normal" (2 out of 7)
 
 ### Keyboards
 
