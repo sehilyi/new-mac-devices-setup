@@ -23,3 +23,12 @@
   - Sign in with GitHub
 - [iTerm2](https://iterm2.com/downloads.html)
   - Import a GitHub theme (https://github.com/sehilyi/dotfiles/tree/master/iterm2)
+  - Uncheck "Confirm closing multiple sessions"
+  - Uncheck 'Confirm "Quit iTerm2"'
+  - Add 50px "Side margins" and "Top & bottom margins"
+
+## Terminal
+
+- [Oh My Zsh](https://ohmyz.sh/#install)
+  - Add `.zshrc` and `.vimrc` using https://github.com/sehilyi/dotfiles
+  - Setup Starship (https://starship.rs/config/)
