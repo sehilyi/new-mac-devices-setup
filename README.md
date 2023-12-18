@@ -49,4 +49,5 @@
 - [fnm](https://github.com/Schniz/fnm)
 - [gh](https://cli.github.com/)
 - Generate and set SSH for git (https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+- [Conda](https://www.anaconda.com/download/)
 
