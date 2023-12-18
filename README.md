@@ -29,6 +29,8 @@
 
 ## Terminal
 
+- [Homebrew](https://brew.sh/)
 - [Oh My Zsh](https://ohmyz.sh/#install)
   - Add `.zshrc` and `.vimrc` using https://github.com/sehilyi/dotfiles
-  - Setup Starship (https://starship.rs/config/)
+- [Starship](https://starship.rs/guide/#%F0%9F%9A%80-installation)
+  - Setup config (https://starship.rs/config/)
