@@ -10,4 +10,4 @@
 
 - [1Password](https://1password.com/)
 - [Rectangle](https://rectangleapp.com/)
-  - Import the default shortcuts ([RectangleConfig.json](./RectangleConfig.json)
+  - Import the default shortcuts ([RectangleConfig.json](./RectangleConfig.json))
