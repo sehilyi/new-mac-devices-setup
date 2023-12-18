@@ -9,6 +9,11 @@
 
 - "Swip between pages" as "Scroll Left or Right with One Finger"
 
+### Keyboards
+
+- "Key repeat rate" as the fastest
+- "Delay until repeat" as the shortest
+
 ## Programs
 
 - [1Password](https://1password.com/)
