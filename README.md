@@ -25,6 +25,13 @@
 - [VSCode](https://code.visualstudio.com/)
   - Sign in with GitHub
 - [Slack](https://slack.com/downloads/mac)
+- [Zoom](https://zoom.us/download)
+- [Zotero](https://www.zotero.org/download/)
+- Things3
+- ColorSlurp
+- NordVPN
+- Day One
+- Kakao
 
 ## Terminal
 
@@ -42,3 +49,4 @@
 - [fnm](https://github.com/Schniz/fnm)
 - [gh](https://cli.github.com/)
 - Generate and set SSH for git (https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+
