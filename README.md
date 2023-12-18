@@ -26,6 +26,7 @@
   - Uncheck "Confirm closing multiple sessions"
   - Uncheck 'Confirm "Quit iTerm2"'
   - Add 50px "Side margins" and "Top & bottom margins"
+- [Slack](https://slack.com/downloads/mac)
 
 ## Terminal
 
