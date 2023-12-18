@@ -40,3 +40,4 @@
   - Setup config (https://starship.rs/config/)
 - [fnm](https://github.com/Schniz/fnm)
 - [gh](https://cli.github.com/)
+- Setup git
