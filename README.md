@@ -27,6 +27,7 @@
 - [Slack](https://slack.com/downloads/mac)
 - [Zoom](https://zoom.us/download)
 - [Zotero](https://www.zotero.org/download/)
+- [Sublime](https://www.sublimetext.com/download_thanks?target=mac)
 - Things3
 - ColorSlurp
 - NordVPN
