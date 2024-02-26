@@ -42,6 +42,7 @@
   - Uncheck 'Confirm "Quit iTerm2"'
   - Add 50px "Side margins" and "Top & bottom margins"
   - Download "JetBrains Mono" and "Hack Nerd Font" (https://github.com/ryanoasis/nerd-fonts)
+  - Default directory for new windows (`Documents`) and new tabs (`Reuse previous session's directory`) from `Profiles` -> `General`
 - [Homebrew](https://brew.sh/)
 - [Oh My Zsh](https://ohmyz.sh/#install)
   - Add `.zshrc` and `.vimrc` using https://github.com/sehilyi/dotfiles
